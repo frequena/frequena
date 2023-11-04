@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frequena
 - 👀 I’m interested in AI + biomedical research
-- 🌱 I’m currently learning about graph neural networks and drug repurposing
+- 🌱 I’m currently working on Alzheimer's disease and drug repurposing
 - 💞️ I’m looking to collaborate on biomedical data science projects
 - 📫 How to reach me frequena.sanchez@hotmail.com
 
