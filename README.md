@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @frequena
-- 👀 I’m interested in AI + biomedical research
-- 🌱 I’m currently working on Alzheimer's disease and drug repurposing
-- 💞️ I’m looking to collaborate on biomedical data science projects
-- 📫 How to reach me frequena.sanchez@hotmail.com
 
 <!---
 frequena/frequena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
